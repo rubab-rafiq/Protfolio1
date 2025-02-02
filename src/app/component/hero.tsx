@@ -41,9 +41,9 @@ const Hero = () => {
 
         {/* Right Section: Text */}
         <div className="text-center lg:text-left max-w-2xl space-y-6" data-aos="fade-left">
-          <h1 className="text-4xl lg:text-6xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-purple-500">
-            Hello, I'm <span className="text-white">Rubab Rafiq</span>
-          </h1>
+        <h1 className="text-4xl lg:text-6xl font-extrabold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-purple-500">
+  Hello, I&apos;m <span className="text-white">Rubab Rafiq</span>
+</h1>
 
           <p className="text-gray-300 text-lg lg:text-xl leading-relaxed">
             Passionate about <span className="font-semibold">AI</span>, futuristic <span className="font-semibold">UI/UX designs</span>, and building seamless user experiences. Turning <span className="font-semibold">imagination into reality</span> with the latest web technologies. 🚀
